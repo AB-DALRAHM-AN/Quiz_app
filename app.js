@@ -11,7 +11,7 @@ let countInterval;
 
 function getQuestions() {
   let myRequest = new XMLHttpRequest();
-  myRequest.open("GET", "/quistions.json", true);
+  myRequest.open("GET", "quistions.json", true);
   myRequest.send();
   myRequest.onreadystatechange = function () {
     if (this.readyState === 4 && this.status === 200) {
