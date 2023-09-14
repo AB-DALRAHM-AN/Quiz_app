@@ -1,0 +1,82 @@
+[
+  {
+    "title" : "Why do we use the <br> element?",
+    "answer_1" : "To make the text italic",
+    "answer_2": "To add a breakline",
+    "answer_3": "To make text bold",
+    "answer_4": "To create a horizontal line",
+    "right_answer": "To add a breakline"
+  },
+  {
+    "title" : "What does HTML stand for?",
+    "answer_1" : "Hyper Text Markup Language",
+    "answer_2": "Highly Technical Modern Language",
+    "answer_3": "Hyperlink and Text Markup Language",
+    "answer_4": "Home Tool Markup Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title" : "Which tag is used to define an ordered list in HTML?",
+    "answer_1" : "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<li>",
+    "answer_4": "<dl>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title" : "What is the purpose of the <a> tag in HTML?",
+    "answer_1" : "To create an image",
+    "answer_2": "To define a paragraph",
+    "answer_3": "To create a hyperlink",
+    "answer_4": "To style text",
+    "right_answer": "To create a hyperlink"
+  },
+  {
+    "title" : "Which element is used to add a line break within a paragraph?",
+    "answer_1" : "<line>",
+    "answer_2": "<break>",
+    "answer_3": "<br>",
+    "answer_4": "<newline>",
+    "right_answer": "<br>"
+  },
+  {
+    "title" : "What does CSS stand for?",
+    "answer_1" : "Computer Style Sheets",
+    "answer_2": "Creative Style Sheets",
+    "answer_3": "Cascading Style Sheets",
+    "answer_4": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title" : "Which CSS property is used to change the text color of an element?",
+    "answer_1" : "font-color",
+    "answer_2": "text-style",
+    "answer_3": "color",
+    "answer_4": "text-color",
+    "right_answer": "color"
+  },
+  {
+    "title" : "What is the purpose of JavaScript in web development?",
+    "answer_1" : "To define webpage structure",
+    "answer_2": "To provide styling information",
+    "answer_3": "To add interactivity and functionality",
+    "answer_4": "To create databases",
+    "right_answer": "To add interactivity and functionality"
+  },
+  {
+    "title" : "Which HTML tag is used to embed a video?",
+    "answer_1" : "<img>",
+    "answer_2": "<video>",
+    "answer_3": "<media>",
+    "answer_4": "<embed>",
+    "right_answer": "<video>"
+  },
+  {
+    "title" : "What does SEO stand for in the context of websites?",
+    "answer_1" : "Search Engine Optimization",
+    "answer_2": "Site Enhancement Operation",
+    "answer_3": "Site Engagement Optimization",
+    "answer_4": "Site Evaluation Opportunity",
+    "right_answer": "Search Engine Optimization"
+  }
+]
