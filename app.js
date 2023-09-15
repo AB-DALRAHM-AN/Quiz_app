@@ -9,9 +9,6 @@ let current = 0;
 let rAns = 0;
 let countInterval;
 
-
-
-
 // the first function to get the questions from json file and add it to the body of the page
 function getQuestions() {
   // crate a request
