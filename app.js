@@ -105,13 +105,13 @@ function showResult(qCount) {
       result = document.createTextNode(
         `You are a genius, you got ${rAns} out of ${qCount}`
       );
-    } else if (rAns < qCount && rAns > 0) {
+    } else if (rAns < qCount/2) {
       result = document.createTextNode(
         `You are normal, you got ${rAns} out of ${qCount}`
       );
-    } else if (rAns > qCount/2 && rAns < qCount) {
+    } else if (rAns > qCount/2) {
       result = document.createTextNode(
-        `You are not good, you got ${rAns} out of ${qCount}`
+        `You are good, you got ${rAns} out of ${qCount}`
       );
     } else {
       result = document.createTextNode(
