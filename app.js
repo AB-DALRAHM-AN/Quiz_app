@@ -109,6 +109,10 @@ function showResult(qCount) {
       result = document.createTextNode(
         `You are normal, you got ${rAns} out of ${qCount}`
       );
+    } else if (rAns > qCount/2 && rAns < qCount) {
+      result = document.createTextNode(
+        `You are not good, you got ${rAns} out of ${qCount}`
+      );
     } else {
       result = document.createTextNode(
         `You didn't get any answers right, better luck next time!`
